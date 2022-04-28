@@ -2,4 +2,4 @@
 RestAPI
 Post method :
 
-UTL : http://localhost:4000/bfhl
+URL : http://localhost:4000/bfhl
